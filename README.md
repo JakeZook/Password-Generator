@@ -16,6 +16,7 @@ These include the length of the password and what type of characters should be i
 N/A
 
 ## Usage
+<img width="1718" alt="Screenshot 2023-08-25 143814" src="https://github.com/JakeZook/Password-Generator/assets/132726907/c84a34f3-ba47-42df-b245-a10c74d82c6d">
 
 Click the button for the first pop up to be displayed.
 Follow the following prompts to customize the desired password.

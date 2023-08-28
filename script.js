@@ -70,7 +70,7 @@ function getLength() {
 		);
 
 		//If password matches length criteria, break out of loop
-		if (passwordLength >= 8 || passwordLength <= 128) {
+		if (passwordLength >= 8 && passwordLength <= 128) {
 			validLength = true;
 		}
 	}
